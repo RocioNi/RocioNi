@@ -1,5 +1,5 @@
+![Tarjeta](https://user-images.githubusercontent.com/86314648/147016711-30f3449b-995b-4637-b190-5cf176f16412.gif)
 
-![miPortada](https://user-images.githubusercontent.com/86314648/146809279-02b34882-a95a-41be-8ef8-724bc0dc5cf5.gif)
 
 <h1 align="center">Hi 👋, I'm Rocío Niño</h1>
 <h3 align="center">I´m Front End Developer from Yucatán, México.</h3>
